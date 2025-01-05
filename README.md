@@ -41,7 +41,7 @@ So please feel free to improve the design, but mention it's origine and share yo
 
 ## Photos
 
-Here you find a photo of printed cars and painted in a heavily weathered way:
+Here you find photos of printed cars and painted in a heavily weathered way:
 
 ![photo3_Hbbillns](https://github.com/user-attachments/assets/d48d68b4-b40a-453c-9481-194edf38d4e4)
 ![photo2_Hbbillns](https://github.com/user-attachments/assets/35b275f6-2e0c-4339-a17b-1ff9d54332d3)
