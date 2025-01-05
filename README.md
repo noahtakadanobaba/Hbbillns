@@ -15,6 +15,12 @@ In order to get a fully functional model you need:
 - Wheelset (2) with the following measures: ø 10,4 x 24,5 mm; also 11 x 25 mm works. I have used [Märklin wheelset 700150](https://www.maerklinshop.de/en/detail/index/sArticle/33206).
 - Colors to paint the model.
 
+Here is an image showing how to assemble the coupler:
+
+<img width="400" alt="Hbbillns_Coupler" src="https://github.com/user-attachments/assets/29e8e262-c3a7-4588-8110-9cfb068c2097" />
+
+The whole coupler can then be glued at the bottom at each side of the car. 
+
 I publish the model under the following licence: [CC BY-NC-SA 4.0 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 That means:
