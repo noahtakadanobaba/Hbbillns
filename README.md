@@ -25,7 +25,7 @@ I publish the model under the following licence: [CC BY-NC-SA 4.0 Creative Commo
 
 That means:
 
-- BY: Credit must be given to you, the creator.
+- BY: Credit must be given to me, the creator (Noah takadanobaba).
 - NC: Only noncommercial use of your work is permitted.
 - SA: Adaptations must be shared under the same terms.
 
